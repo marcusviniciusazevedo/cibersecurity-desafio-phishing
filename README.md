@@ -1,8 +1,7 @@
 # Phishing para captura de senhas do Facebook
 
 ### Ferramentas
-
-- Kali Linux
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=Kali%20Linux&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.kali.org%2F)
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
