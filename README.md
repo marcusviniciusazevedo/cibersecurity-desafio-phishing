@@ -8,17 +8,17 @@ Este projeto tem por objetivo entender como acontecem o ataque de phishing, do q
 
 ### Configurando o Phishing no Kali Linux
 
-- Necessário mudar na máquina virtual a Configuração de Rede para Placa em Modo Bridge, clicar em Ok e reiniciar o sistema. 
-- Digitar no Terminal Emulator sudo su, seguido da sua senha de acesso ao Kali Linux para ter acesso como root.
-- Digitar setoolkit para acessar a ferramenta.
-- Em seguida selecionar o tipo de ataque, no caso 1) Social-Engineering Attacks e Enter.
-- A ferramenta socilita os vetores de ataque, no caso 2) Website Attack Vectors Enter. Ele demonstra explicações do tipos de ataques. 
-- Selecione em seguida o 3) Credential Harvester Attack Method Enter.
-- Digite 2) Site Cloner Enter.
-- Você estará rodando um servidor com a página falsa, mas para isso ele precisa do IP da sua máquina. Por isso ele precisa ficar no modo Bridge, para acessar a sua máquina de outra máquina. Dê um enter.
-- Irá mostrar o IP da sua máquina, dê um Ente
-- Informe a URL a ser clonada, http://www.facebook.com e aperte Enter.
-- Abra um navegador em anônimo e digite o IP da sua máquina, que acessará a página clonada.
+- Necessário mudar na máquina virtual a Configuração de Rede para **Placa em Modo Bridge**, clicar em **Ok** e reiniciar o Kali Linux. 
+- Digite no Terminal Emulator **sudo su**, seguido da sua senha de acesso ao Kali Linux para ter acesso como **root**.
+- Digite **setoolkit** para acessar a ferramenta.
+- Em seguida selecionar o tipo de ataque, no caso **1** para o item Social-Engineering Attacks e **Enter**.
+- É solicitado pela ferramenta os vetores de ataque, no caso **2** ou Website Attack Vectors Enter. Ele demonstra explicações do tipos de ataques. 
+- Selecione em seguida o **3** para Credential Harvester Attack Method e **Enter**.
+- Digite **2** Site Cloner e **Enter**.
+- Você estará rodando um servidor com a página clonada, mas para isso ele precisa do IP da sua máquina, no modo Bridge, para acessar a sua máquina e outras. Dê um **Enter**.
+- Irá mostrar o IP da sua máquina, dê um **Enter** novamente.
+- Informe a URL a ser clonada, **http://www.facebook.com** e aperte **Enter**.
+- Abra um navegador em modo anônimo e digite o IP da sua máquina. Você terá acesso a página clonada.
 
 ### Resutados
 
