@@ -8,14 +8,17 @@ Este projeto tem por objetivo entender como acontecem o ataque de phishing, do q
 
 ### Configurando o Phishing no Kali Linux
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Necessário mudar na máquina virtual a Configuração de Rede para Placa em Modo Bridge, clicar em Ok e reiniciar o sistema. 
+- Digitar no Terminal Emulator sudo su, seguido da sua senha de acesso ao Kali Linux para ter acesso como root.
+- Digitar setoolkit para acessar a ferramenta.
+- Em seguida selecionar o tipo de ataque, no caso 1) Social-Engineering Attacks e Enter.
+- A ferramenta socilita os vetores de ataque, no caso 2) Website Attack Vectors Enter. Ele demonstra explicações do tipos de ataques. 
+- Selecione em seguida o 3) Credential Harvester Attack Method Enter.
+- Digite 2) Site Cloner Enter.
+- Você estará rodando um servidor com a página falsa, mas para isso ele precisa do IP da sua máquina. Por isso ele precisa ficar no modo Bridge, para acessar a sua máquina de outra máquina. Dê um enter.
+- Irá mostrar o IP da sua máquina, dê um Ente
+- Informe a URL a ser clonada, http://www.facebook.com e aperte Enter.
+- Abra um navegador em anônimo e digite o IP da sua máquina, que acessará a página clonada.
 
 ### Resutados
 
