@@ -9,7 +9,7 @@ Este projeto tem por objetivo entender como acontece o ataque de phishing, do qu
 ### Configurando o Phishing no Kali Linux
 
 - Necessário mudar na máquina virtual a Configuração de Rede para **Placa em Modo Bridge**, clicar em **Ok** e reiniciar o Kali Linux. 
-- Digite no Terminal Emulator **sudo su**, seguido da sua senha de acesso ao Kali Linux para ter acesso como **root**.
+- Digite no Terminal Emulator **sudo su**, seguido a sua senha de acesso para ter acesso como **root**.
 - Digite **setoolkit** para acessar a ferramenta.
 - Em seguida selecionar o tipo de ataque, no caso **1** no menu, para o item Social-Engineering Attacks e **Enter**.
 - É solicitado pela ferramenta os vetores de ataque, no caso **2** ou Website Attack Vectors Enter.
