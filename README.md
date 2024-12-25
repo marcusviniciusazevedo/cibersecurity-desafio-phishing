@@ -14,7 +14,7 @@ Este projeto tem por objetivo entender como acontece o ataque de phishing, do qu
 - Em seguida selecionar o tipo de ataque, no caso **1** no menu, para o item Social-Engineering Attacks e **Enter**.
 - É solicitado pela ferramenta os vetores de ataque, no caso **2** ou Website Attack Vectors Enter.
 - Selecione em seguida o **3** para Credential Harvester Attack Method e **Enter**.
-- Digite **2** Site Cloner e **Enter**.
+- Digite a opção **2** ou Site Cloner e **Enter**.
 - Você estará rodando um servidor com a página clonada, mas para isso ele precisa do IP da sua máquina, no modo Bridge, para acessar a sua máquina e outras. Dê um **Enter**.
 - Irá mostrar o IP da sua máquina, dê um **Enter** novamente.
 - Informe a URL a ser clonada, **http://www.facebook.com** e aperte **Enter**.
