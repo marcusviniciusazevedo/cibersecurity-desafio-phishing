@@ -1,6 +1,6 @@
 # Phishing para captura de senhas do Facebook
 
-Este projeto tem por objetivo entender como acontece o ataque de phishing, do qual ocorre a captura de credenciais dos usuários de uma das maiores redes sociais do mundo. É importante se precaver das estratégias de engenharia social no meio virtual, estando atento também aos links de acesso na web. 
+Este projeto tem por objetivo entender como acontece o ataque de phishing, do qual ocorre a captura de credenciais dos usuários de uma das maiores redes sociais do mundo. É muito importante se precaver das estratégias de engenharia social no meio virtual, estando atento também aos links de acesso na web. 
 
 ### Ferramentas
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-black?style=flat&logo=Kali%20Linux&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.kali.org%2F)
@@ -18,7 +18,7 @@ Este projeto tem por objetivo entender como acontece o ataque de phishing, do qu
 - Você estará rodando um servidor com a página clonada. Precisaremos do IP da sua máquina, no modo Bridge, para acessar a sua máquina e outras. Dê um **Enter**.
 - Irá mostrar o IP da sua máquina, dê um **Enter** novamente.
 - Informe a URL a ser clonada, **http://www.facebook.com** e aperte **Enter**.
-- Abra um navegador em modo anônimo e digite o IP da sua máquina. Você terá acesso a página clonada com informações através do terminal.
+- Abra um navegador em modo anônimo e digite o IP da sua máquina. Você terá acesso a página clonada com informações através do terminal no Kali Linux.
 
 ### Resutados
 
