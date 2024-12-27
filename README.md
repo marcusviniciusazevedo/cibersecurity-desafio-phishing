@@ -1,4 +1,4 @@
-# Phishing no login do Facebook
+# Phishing com o login do Facebook
 
 Este projeto tem por objetivo entender como acontece o ataque de phishing, do qual ocorre a captura de credenciais dos usuários de uma das maiores redes sociais do mundo. É muito importante se precaver das estratégias de engenharia social no meio virtual, estando atento também aos links de acesso na web. 
 
