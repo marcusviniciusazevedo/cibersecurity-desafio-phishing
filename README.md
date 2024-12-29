@@ -15,7 +15,7 @@ Este projeto tem por objetivo entender como acontece o ataque de phishing, do qu
 - É solicitado pela ferramenta os vetores de ataque, no caso **2** ou Website Attack Vectors e **Enter**.
 - Digite em seguida o **3** para Credential Harvester Attack Method e **Enter**.
 - Digite **2** para o item Site Cloner e **Enter**.
-- Você estará rodando um servidor com a página clonada. Precisaremos do IP da sua máquina, no modo Bridge, para acessar a sua máquina e outras. Dê um **Enter**.
+- Você estará rodando um servidor com a página clonada. Precisaremos do IP da sua máquina, no modo Bridge, para acessa-la e outras. Dê um **Enter**.
 - Irá mostrar o IP da sua máquina, dê um **Enter** novamente.
 - Informe a URL a ser clonada, **http://www.facebook.com** e aperte **Enter**.
 - Abra um **navegador** e digite o IP da sua máquina. Você terá acesso a página clonada com informações através do terminal no Kali Linux.
