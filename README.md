@@ -22,4 +22,4 @@ Este projeto tem por objetivo entender como acontece o ataque de phishing, do qu
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./phishing_facebook.PNG "Optional title")
