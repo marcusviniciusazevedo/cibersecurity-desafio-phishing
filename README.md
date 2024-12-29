@@ -18,7 +18,7 @@ Este projeto tem por objetivo entender como acontece o ataque de phishing, do qu
 - Você estará rodando um servidor com a página clonada. Precisaremos do IP da sua máquina, no modo Bridge, para acessar a sua máquina e outras. Dê um **Enter**.
 - Irá mostrar o IP da sua máquina, dê um **Enter** novamente.
 - Informe a URL a ser clonada, **http://www.facebook.com** e aperte **Enter**.
-- Abra um **navegador em modo anônimo** e digite o IP da sua máquina. Você terá acesso a página clonada com informações através do terminal no Kali Linux.
+- Abra um **navegador** e digite o IP da sua máquina. Você terá acesso a página clonada com informações através do terminal no Kali Linux.
 
 ### Resutados
 
