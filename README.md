@@ -8,7 +8,7 @@ Este projeto tem por objetivo entender como acontece o ataque de phishing, do qu
 - Digite no **Terminal Emulator sudo su**, seguido da sua senha de acesso para ter o privilégio como **root**.
 - Digite **setoolkit** para acessar a ferramenta que criará o phishing.
 - Em seguida selecione o tipo de ataque, no caso **1** no menu, para o item **Social-Engineering Attacks** e Enter.
-- É solicitado pela ferramenta os vetores de ataque, no caso **2** ou **Website Attack Vectors** e Enter.
+- Ocorre a solicitação pela ferramenta dos vetores de ataque, no caso **2** ou **Website Attack Vectors** e Enter.
 - Digite em seguida o **3** para **Credential Harvester Attack Method** e Enter.
 - Digite **2** para o item **Site Cloner** e Enter.
 - Irá mostrar o IP da sua máquina, e Enter novamente.
